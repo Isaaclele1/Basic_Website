@@ -1,0 +1,23 @@
+body {
+    display: column;
+    margin: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #1F2937;
+    font-family: roboto;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header p{
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 24px;
+}
